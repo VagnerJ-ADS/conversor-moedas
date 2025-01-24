@@ -29,7 +29,7 @@ public class ConversorMoedas {
                 .create();
 
         // URL da API de taxas de câmbio com chave de API
-        String endereco = "https://v6.exchangerate-api.com/v6/04dadbbf0bcdc6db410f5976/latest/USD";
+        String endereco = "https://v6.exchangerate-api.com/v6/sua_chave_aqui/latest/USD";
 
         // Cria um cliente HTTP para enviar solicitações
         HttpClient client = HttpClient.newHttpClient();

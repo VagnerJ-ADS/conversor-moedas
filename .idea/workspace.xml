@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4dd4f590-fe01-4796-86de-0b8bc30ec785" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/conversor/ConversorMoedas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/conversor/ConversorMoedas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +39,9 @@
     "Application.Principal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/vagne/Desktop/Oracle One/Java e Orientação a Objetos G7 - ONE/Java consumindo API, gravando arquivos e lidando com erros/gson-2.11.0.jar",
+    "last_opened_file_path": "C:/Users/vagne/Desktop/2944-java-desafio-main",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
